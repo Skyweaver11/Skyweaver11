@@ -10,8 +10,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<!-- Add tools here as in your original content -->
+<p align="left">
+<!-- Add your tools section here -->
 </p>
 
 ---

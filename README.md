@@ -5,7 +5,7 @@
 
 <h3 align="left" style="font-size: 1.2em; font-weight: bold; color: #333;">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/omkar-patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Omkar Patil" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/omkar-patil-32b926253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Omkar Patil" height="30" width="40" /></a>
   <a href="https://kaggle.com/skyweaver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Skyweaver" height="30" width="40" /></a>
   <a href="https://instagram.com/skyom_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="skyom_11" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/skyweaver11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="skyweaver11" height="30" width="40" /></a>
@@ -15,7 +15,6 @@
 
 <h3 align="left" style="font-size: 1.2em; font-weight: bold; color: #333;">Languages and Tools:</h3>
 <p align="left" style="font-size: 1em; color: #555;">
-  <!-- Add your tools section here -->
   <strong>Languages:</strong> Python, C++, JavaScript, SQL <br>
   <strong>Tools:</strong> TensorFlow, Keras, PyTorch, Scikit-learn, NumPy, Pandas, Git
 </p>

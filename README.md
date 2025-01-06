@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github_banner.png" alt="Banner" width="100%" />
+  <img src="OMKAr patil.png" alt="Banner" width="100%" />
 </p>
 <h1 align="center">Hi 👋, I'm Omkar Patil</h1>
 <p align="center">A passionate Data Scientist, AI/ML Enthusiast, and Competitive Programmer</p>

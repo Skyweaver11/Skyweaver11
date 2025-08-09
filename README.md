@@ -51,30 +51,14 @@
         <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48" height="48" />
         <br>CSS
       </td>
-      <td align="center" width="12.5%">
-        <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="48" height="48" />
-        <br>Bootstrap
-      </td>
-      <td align="center" width="12.5%">
-        <img src="https://skillicons.dev/icons?i=r" alt="R" width="48" height="48" />
-        <br>R Programming
-      </td>
-      <td align="center" width="12.5%">
-        <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="48" height="48" />
-        <br>OpenCV
-      </td>
-      <td align="center" width="12.5%">
-        <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48" />
-        <br>Linux
-      </td>
     </tr>
   </table>
 </div>
 
 <h2>✨ Featured Projects</h2>
 <ul>
-  <li><a href="https://github.com/your-repo-link">Real-Time Face Detection for Workplace Safety</a></li>
-  <li><a href="https://github.com/your-repo-link">Diabetes Prediction using ML</a></li>
+  <li><a href="https://github.com/Skyweaver11/Product-Ranking-Optimization">Product-Ranking-Optimization</a></li>
+  <li><a href="https://my-public-ml-web-app-xyu6yqmbzv823nsobvvrg9.streamlit.app/">Multiple Disease Prediction System</a></li>
 </ul>
 
 <h2>⚡️ Where to Find Me</h2>
@@ -86,18 +70,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Skyweaver11&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Skyweaver11&theme=aura&hide_border=true" width="50%" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skyweaver11&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> <br/>
-  <img src="https://github-contribution-graph.ez4o.com/?username=Skyweaver11&theme=dracula&bg=1d1f21&grid=44475a&line=ff79c6&point=bd93f9&area=282a36" alt="Contribution Graph" />
-</div>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Skyweaver11" alt="GitHub Trophies" /></a>
-</p>
-
 <p align="center">
   ⚡️ <strong>Let's collaborate and build something amazing together!</strong> Feel free to connect or reach out.
 </p>
